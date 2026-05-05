@@ -1,0 +1,166 @@
+﻿reaction,global_id,metabolite,flux,metabolite_BIGG,Description_BIGG,MNXM_ID
+EX_cpd00001_m,EX_cpd00001_e0,cpd00001,10,h2o_m,H2O,WATER
+EX_cpd00007_m,EX_cpd00007_e0,cpd00007,0.001,o2_m,O2,MNXM735438
+EX_cpd00009_m,EX_cpd00009_e0,cpd00009,0.1,pi_m,Phosphate,MNXM9
+EX_cpd00016_m,EX_cpd00016_e0,cpd00016,0.00001,pydx5p_m,Pyridoxal 5'-phosphate,MNXM161
+EX_cpd00017_m,EX_cpd00017_e0,cpd00017,0.1,amet_m,S-Adenosyl-L-methionine,MNXM1102072
+EX_cpd00018_m,EX_cpd00018_e0,cpd00018,0.1,amp_m,AMP,MNXM728294
+EX_cpd00023_m,EX_cpd00023_e0,cpd00023,0.018,glu_L_m,,
+EX_cpd00027_m,EX_cpd00027_e0,cpd00027,0.00001,glc_m,secondary/obsolete/fantasy identifier,MNXM1137670
+EX_cpd00028_m,EX_cpd00028_e0,cpd00028,0.1,pheme_m,Protoheme,MNXM249
+EX_cpd00029_m,EX_cpd00029_e0,cpd00029,0.1,ac_m,Acetate,MNXM26
+EX_cpd00030_m,EX_cpd00030_e0,cpd00030,0.1,mn2_m,Manganese,MNXM2255
+EX_cpd00033_m,EX_cpd00033_e0,cpd00033,0.045,gly_m,Glycine,MNXM29
+EX_cpd00034_m,EX_cpd00034_e0,cpd00034,0.1,zn2_m,Zinc,MNXM729215
+EX_cpd00035_m,EX_cpd00035_e0,cpd00035,0.1,ala_L_m,,
+EX_cpd00036_m,EX_cpd00036_e0,cpd00036,0.002002418,succ_m,Succinate,MNXM25
+EX_cpd00039_m,EX_cpd00039_e0,cpd00039,0.015,lys_L_m,,
+EX_cpd00041_m,EX_cpd00041_e0,cpd00041,0.0225,asp_L_m,,
+EX_cpd00042_m,EX_cpd00042_e0,cpd00042,0.1,gthrd_m,Reduced glutathione,MNXM490899
+EX_cpd00047_m,EX_cpd00047_e0,cpd00047,0.1,for_m,Formate,MNXM39
+EX_cpd00048_m,EX_cpd00048_e0,cpd00048,0.1,so4_m,Sulfate,MNXM58
+EX_cpd00051_m,EX_cpd00051_e0,cpd00051,0.015,arg_L_m,,
+EX_cpd00053_m,EX_cpd00053_e0,cpd00053,0.018,gln_L_m,,
+EX_cpd00054_m,EX_cpd00054_e0,cpd00054,0.1,ser_L_m,,
+EX_cpd00055_m,EX_cpd00055_e0,cpd00055,0.1,fald_m,Formaldehyde,MNXM736417
+EX_cpd00058_m,EX_cpd00058_e0,cpd00058,0.1,cu2_m,Copper,MNXM731166
+EX_cpd00060_m,EX_cpd00060_e0,cpd00060,0.018,met_L_m,,
+EX_cpd00064_m,EX_cpd00064_e0,cpd00064,0.1,orn_m,Ornithine,MNXM741175
+EX_cpd00065_m,EX_cpd00065_e0,cpd00065,0.008182,trp_L_m,,
+EX_cpd00066_m,EX_cpd00066_e0,cpd00066,0.1,phe_L_m,,
+EX_cpd00067_m,EX_cpd00067_e0,cpd00067,0.1,h_m,H+,MNXM1
+EX_cpd00069_m,EX_cpd00069_e0,cpd00069,0.1,tyr_L_m,,
+EX_cpd00075_m,EX_cpd00075_e0,cpd00075,0.1,no2_m,Nitrite,MNXM107
+EX_cpd00076_m,EX_cpd00076_e0,cpd00076,0.0074493,sucr_m,Sucrose,MNXM1104180
+EX_cpd00080_m,EX_cpd00080_e0,cpd00080,0.1,glyc3p_m,Glycerol 3-phosphate,MNXM66
+EX_cpd00084_m,EX_cpd00084_e0,cpd00084,0.1,cys_L_m,,
+EX_cpd00092_m,EX_cpd00092_e0,cpd00092,0.1,ura_m,Uracil,MNXM158
+EX_cpd00094_m,EX_cpd00094_e0,cpd00094,0.1,2obut_m,2-Oxobutanoate,MNXM159
+EX_cpd00098_m,EX_cpd00098_e0,cpd00098,0.1,chol_m,Choline,MNXM90
+EX_cpd00099_m,EX_cpd00099_e0,cpd00099,0.1,cl_m,Chloride,MNXM735978
+EX_cpd00100_m,EX_cpd00100_e0,cpd00100,0.1799655,glyc_m,Glycerol,MNXM89612
+EX_cpd00104_m,EX_cpd00104_e0,cpd00104,0.1,btn_m,Biotin,MNXM304
+EX_cpd00105_m,EX_cpd00105_e0,cpd00105,1.79E-02,rib_D_m,,
+EX_cpd00106_m,EX_cpd00106_e0,cpd00106,0.1,fum_m,Fumarate,MNXM737340
+EX_cpd00107_m,EX_cpd00107_e0,cpd00107,0.015,leu_L_m,,
+EX_cpd00111_m,EX_cpd00111_e0,cpd00111,0.1,gthox_m,Oxidized glutathione,MNXM729383
+EX_cpd00116_m,EX_cpd00116_e0,cpd00116,10,meoh_m,Methanol,MNXM729800
+EX_cpd00117_m,EX_cpd00117_e0,cpd00117,0.1,ala_D_m,,
+EX_cpd00118_m,EX_cpd00118_e0,cpd00118,0.1,ptrc_m,Putrescine,MNXM118
+EX_cpd00119_m,EX_cpd00119_e0,cpd00119,0.015,his_L_m,,
+EX_cpd00122_m,EX_cpd00122_e0,cpd00122,0.1,acgam_m,N-Acetyl-D-glucosamine,MNXM1105935
+EX_cpd00128_m,EX_cpd00128_e0,cpd00128,0.1,ade_m,Adenine,MNXM168
+EX_cpd00129_m,EX_cpd00129_e0,cpd00129,0.018,pro_L_m,,
+EX_cpd00132_m,EX_cpd00132_e0,cpd00132,0.0225,asn_L_m,,
+EX_cpd00133_m,EX_cpd00133_e0,cpd00133,0.1,ncam_m,Nicotinamide,MNXM216
+EX_cpd00136_m,EX_cpd00136_e0,cpd00136,0.1,4hbz_m,4-Hydroxybenzoate,MNXM164
+EX_cpd00137_m,EX_cpd00137_e0,cpd00137,0.1,cit_m,Citrate,MNXM1107753
+EX_cpd00138_m,EX_cpd00138_e0,cpd00138,0.0148986,man_m,D-Mannose,MNXM1105842
+EX_cpd00149_m,EX_cpd00149_e0,cpd00149,0.1,cobalt2_m,Co2+,MNXM90960
+EX_cpd00154_m,EX_cpd00154_e0,cpd00154,0.0178783,xyl_D_m,,
+EX_cpd00156_m,EX_cpd00156_e0,cpd00156,0.018,val_L_m,,
+EX_cpd00158_m,EX_cpd00158_e0,cpd00158,0.074493,cellb_m,Cellobiose,MNXM726888
+EX_cpd00160_m,EX_cpd00160_e0,cpd00160,0.0004958,chsterol_m,Chsterol c,MNXM726122
+EX_cpd00161_m,EX_cpd00161_e0,cpd00161,0.0225,thr_L_m,,
+EX_cpd00179_m,EX_cpd00179_e0,cpd00179,0.0074493,malt_m,Maltose,MNXM1106000
+EX_cpd00180_m,EX_cpd00180_e0,cpd00180,0.0446957,oxa_m,Oxalate,MNXM291
+EX_cpd00182_m,EX_cpd00182_e0,cpd00182,0.1,adn_m,Adenosine,MNXM1105760
+EX_cpd00184_m,EX_cpd00184_e0,cpd00184,0.1,thymd_m,Thymidine,MNXM420
+EX_cpd00185_m,EX_cpd00185_e0,cpd00185,0.1,arab_D_m,,
+EX_cpd00186_m,EX_cpd00186_e0,cpd00186,0.00001,glu_D_m,,
+EX_cpd00188_m,EX_cpd00188_e0,cpd00188,0.00001,arachd_m,Arachidonic acid,MNXM1107770
+EX_cpd00205_m,EX_cpd00205_e0,cpd00205,0.1,k_m,Potassium,MNXM95
+EX_cpd00207_m,EX_cpd00207_e0,cpd00207,0.1,gua_m,Guanine,MNXM733114
+EX_cpd00214_m,EX_cpd00214_e0,cpd00214,0.0396371,hdca_m,Hexadecanoate (n-C16:0),MNXM108
+EX_cpd00215_m,EX_cpd00215_e0,cpd00215,0.1,pydx_m,Pyridoxal,MNXM311
+EX_cpd00216_m,EX_cpd00216_e0,cpd00216,0.1,chor_m,Chorismate,MNXM337
+EX_cpd00218_m,EX_cpd00218_e0,cpd00218,0.1,nac_m,Nicotinate,MNXM274
+EX_cpd00220_m,EX_cpd00220_e0,cpd00220,0.1,ribflv_m,Riboflavin,MNXM270
+EX_cpd00222_m,EX_cpd00222_e0,cpd00222,0.0148986,glcn_m,D-Gluconate,MNXM341
+EX_cpd00224_m,EX_cpd00224_e0,cpd00224,0.0178783,arab_L_m,,
+EX_cpd00226_m,EX_cpd00226_e0,cpd00226,0.1,hxan_m,Hypoxanthine,MNXM732487
+EX_cpd00239_m,EX_cpd00239_e0,cpd00239,0.1,h2s_m,Hydrogen sulfide,MNXM124865
+EX_cpd00249_m,EX_cpd00249_e0,cpd00249,0.1,uri_m,Uridine,MNXM1103104
+EX_cpd00254_m,EX_cpd00254_e0,cpd00254,0.1,mg2_m,Magnesium,MNXM653
+EX_cpd00263_m,EX_cpd00263_e0,cpd00263,1.00E-01,pydxn_m,Pyridoxine,MNXM419
+EX_cpd00264_m,EX_cpd00264_e0,cpd00264,0.1,spmd_m,Spermidine,MNXM124
+EX_cpd00276_m,EX_cpd00276_e0,cpd00276,0.1,gam_m,D-Glucosamine,MNXM1105684
+EX_cpd00277_m,EX_cpd00277_e0,cpd00277,0.1,dgsn_m,Deoxyguanosine,MNXM647
+EX_cpd00305_m,EX_cpd00305_e0,cpd00305,0.1,thm_m,Thiamin,MNXM730135
+EX_cpd00307_m,EX_cpd00307_e0,cpd00307,0.1,csn_m,Cytosine,MNXM761
+EX_cpd00309_m,EX_cpd00309_e0,cpd00309,0.1,xan_m,Xanthine,MNXM174
+EX_cpd00311_m,EX_cpd00311_e0,cpd00311,0.1,gsn_m,Guanosine,MNXM1103400
+EX_cpd00314_m,EX_cpd00314_e0,cpd00314,0.0148986,mnl_m,D-Mannitol,MNXM1104590
+EX_cpd00322_m,EX_cpd00322_e0,cpd00322,0.015,ile_L_m,,
+EX_cpd00355_m,EX_cpd00355_e0,cpd00355,0.1,nmn_m,NMN,MNXM355
+EX_cpd00359_m,EX_cpd00359_e0,cpd00359,0.1,indole_m,Indole,MNXM735090
+EX_cpd00367_m,EX_cpd00367_e0,cpd00367,0.1,cytd_m,Cytidine,MNXM1104207
+EX_cpd00382_m,EX_cpd00382_e0,cpd00382,4.70E-03,raffin_m,Raffinose,MNXM1108339
+EX_cpd00393_m,EX_cpd00393_e0,cpd00393,0.1,fol_m,Folate,MNXM617
+EX_cpd00419_m,EX_cpd00419_e0,cpd00419,0.1,pydam_m,Pyridoxamine,MNXM548
+EX_cpd00438_m,EX_cpd00438_e0,cpd00438,0.1,dad_2_m,Deoxyadenosine,MNXM625
+EX_cpd00443_m,EX_cpd00443_e0,cpd00443,0.1,4abz_m,4-Aminobenzoate,MNXM421
+EX_cpd00492_m,EX_cpd00492_e0,cpd00492,0.1,acmana_m,N-Acetyl-D-mannosamine,MNXM1105881
+EX_cpd00508_m,EX_cpd00508_e0,cpd00508,0.1,3mop_m,(S)-3-Methyl-2-oxopentanoate,MNXM1103447
+EX_cpd00516_m,EX_cpd00516_e0,cpd00516,0.1,26dap_M_m,,
+EX_cpd00536_m,EX_cpd00536_e0,cpd00536,0.0681445,ocdcea_m,Octadecenoate (n-C18:1),MNXM1107708
+EX_cpd00557_m,EX_cpd00557_e0,cpd00557,0.1,sheme_m,Siroheme,MNXM1104857
+EX_cpd00588_m,EX_cpd00588_e0,cpd00588,0.007549065,sbt_D_m,,
+EX_cpd00635_m,EX_cpd00635_e0,cpd00635,0.1,cbl1_m,Cob(I)alamin,MNXM1104756
+EX_cpd00644_m,EX_cpd00644_e0,cpd00644,0.1,pnto_R_m,,
+EX_cpd00654_m,EX_cpd00654_e0,cpd00654,0.1,dcyt_m,Deoxycytidine,MNXM704
+EX_cpd00724_m,EX_cpd00724_e0,cpd00724,0.0148986,gal_m,D-Galactose,MNXM1108175
+EX_cpd00751_m,EX_cpd00751_e0,cpd00751,0.0148986,fuc_L_m,,
+EX_cpd00794_m,EX_cpd00794_e0,cpd00794,0.074493,tre_m,Trehalose,MNXM1106022
+EX_cpd00971_m,EX_cpd00971_e0,cpd00971,0.1,na1_m,Sodium,MNXM27
+EX_cpd01017_m,EX_cpd01017_e0,cpd01017,0.1,cgly_m,Cys Gly,MNXM683
+EX_cpd01080_m,EX_cpd01080_e0,cpd01080,0.0169283,ocdca_m,Octadecanoate (n-C18:0),MNXM236
+EX_cpd01122_m,EX_cpd01122_e0,cpd01122,0.00001,lnlc_m,Linoleic acid (all cis C18:2) n-6,MNXM1108069
+EX_cpd01188_m,EX_cpd01188_e0,cpd01188,0.1,lanost_m,Lanosterol,MNXM736942
+EX_cpd01459_m,EX_cpd01459_e0,cpd01459,0.113256821,glyleu_m,Glycylleucine,MNXM126241
+EX_cpd01727_m,EX_cpd01727_e0,cpd01727,0.1,pime_m,Pimelate,MNXM2555
+EX_cpd01741_m,EX_cpd01741_e0,cpd01741,0.1,ddca_m,Dodecanoate (n-C12:0),MNXM402
+EX_cpd01914_m,EX_cpd01914_e0,cpd01914,0.1,metsox_S_L_m,,
+EX_cpd02992_m,EX_cpd02992_e0,cpd02992,0.1,new_mucin_2,,MNXM1098197
+EX_cpd03198_m,EX_cpd03198_e0,cpd03198,0.0074493,melib_m,Melibiose,MNXM1103964
+EX_cpd03396_m,EX_cpd03396_e0,cpd03396,0.1,sel_m,Selenate,MNXM2282
+EX_cpd03725_m,EX_cpd03725_e0,cpd03725,0.00001,fe3dcit_m,Fe(III)dicitrate,MNXM1107801
+EX_cpd03809_m,EX_cpd03809_e0,cpd03809,0.0074493,lcts_m,Lactose,MNXM1104432
+EX_cpd03846_m,EX_cpd03846_e0,cpd03846,0.00001,octa_m,Octanoate (n-C8:0),MNXM750
+EX_cpd03847_m,EX_cpd03847_e0,cpd03847,0.0068676,ttdca_m,Tetradecanoate (n-C14:0),MNXM314
+EX_cpd03849_m,EX_cpd03849_e0,cpd03849,0.00001,lnlncg_m,Gamma-linolenic acid,MNXM3995
+EX_cpd03850_m,EX_cpd03850_e0,cpd03850,0.00001,lnlnca_m,"Alpha-Linolenic acid, C18:3, n-3",MNXM1108303
+EX_cpd05274_m,EX_cpd05274_e0,cpd05274,0.00001,hdcea_m,Hexadecenoate (n-C16:1),MNXM1107900
+EX_cpd10515_m,EX_cpd10515_e0,cpd10515,0.1,fe2_m,Fe2+ mitochondria,MNXM726711
+EX_cpd10516_m,EX_cpd10516_e0,cpd10516,0.1,fe3_m,Iron (Fe3+),MNXM726712
+EX_cpd11574_m,EX_cpd11574_e0,cpd11574,0.1,mobd_m,Molybdate,MNXM726092
+EX_cpd11602_m,EX_cpd11602_e0,cpd11602,0.000470195,inulin_m,,
+EX_cpd11606_m,EX_cpd11606_e0,cpd11606,0.1,mqn7_m,Menaquinone 7,MNXM12236
+EX_cpd11640_m,EX_cpd11640_e0,cpd11640,0.1,h2_m,Hydrogen,MNXM1108018
+EX_cpd11657_m,EX_cpd11657_e0,cpd11657,0.2573508,starch1200_m,"Starch n=1200 repeat units (300 repeat units amylose, 900 repeat units amylopectin, corresponds to potatoe starch)",MNXM148510
+EX_cpd11688 _m,EX_cpd11688 _e0,cpd11688 ,0.0000118,pullulan1200_m,"Pullulan (n=1200 repeat units, alpha-1,4 and alph-1,6 bounds)",MNXM148493
+EX_cpd11696_m,EX_cpd11696_e0,cpd11696,7.05E-08,bglc_m,Beta-glucans,MNXM163321
+EX_cpd11732_m,EX_cpd11732_e0,cpd11732,0.0000321,xylan_m,,
+EX_cpd11735_m,EX_cpd11735_e0,cpd11735,0.0000157,amylopect900_m,,
+EX_cpd11746_m,EX_cpd11746_e0,cpd11746,0.0000282,cellul_m,,
+EX_cpd11748_m,EX_cpd11748_e0,cpd11748,0.000470195,lmn30_m,"Laminarin (n=30 repeat units, beta -1,3 glc)",MNXM148323
+EX_cpd11842_m,EX_cpd11842_e0,cpd11842,0.1,new_mucin_1,,MNXM1097432
+EX_cpd15311_m,EX_cpd15311_e0,cpd15311,0.1,12dgr180_m,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",MNXM4217
+EX_cpd15352_m,EX_cpd15352_e0,cpd15352,0.1,2dmmq8_m,2-Demethylmenaquinone 8,MNXM2178
+EX_cpd15380_m,EX_cpd15380_e0,cpd15380,0.0178783,drib_m,Deoxyribose,MNXM731178
+EX_cpd15500_m,EX_cpd15500_e0,cpd15500,0.1,mqn8_m,Menaquinone 8,MNXM509
+EX_cpd15560_m,EX_cpd15560_e0,cpd15560,1.00E-01,q8_m,Ubiquinone-8,MNXM232
+EX_cpd21149_m,EX_cpd21149_e0,cpd21149,0.1,acnam_m,N-Acetylneuraminate,MNXM1106047
+EX_cpd27094_m,EX_cpd27094_e0,cpd27094,0.0148986,rmn_m,L-Rhamnose,MNXM733618
+EX_cpd27835_m,EX_cpd27835_e0,cpd27835,0.0000334,pect_m,Pectins,MNXM163549
+EX_cpd00063_m,EX_cpd00063_e0,cpd00063,0.1,ca2_m,Calcium,MNXM128
+EX_cpd30321_m,EX_cpd30321_e0,cpd30321,0.0148986,fru_m,D-Fructose,MNXM1105810
+EX_cpd03246_m,EX_cpd03246_e0,cpd03246,0.002479,,Taurochenodeoxycholate,
+EX_cpd03247_m,EX_cpd03247_e0,cpd03247,0.009916,,Glycochenodeoxycholate,
+EX_cpd03047_m,EX_cpd03047_e0,cpd03047,0.002479,EX_tchola_m,Taurocholate,
+EX_cpd01318_m,EX_cpd01318_e0,cpd01318,0.009916,EX_gchola_m,Glycocholate,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
