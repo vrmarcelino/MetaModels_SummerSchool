@@ -86,7 +86,6 @@ def load_micom_results(folder="2_Exchanges"):
     res = SimpleNamespace(
         exchanges=exchanges,
         growth_rates=growth_rates,
-        annotations=annotations
     )
 
     return res
