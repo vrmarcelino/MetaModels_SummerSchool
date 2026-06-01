@@ -1,0 +1,7 @@
+﻿Sample,Original_sample,Diagnosis_description,Diagnosis,HD,Author_Year,age,BMI
+ERR1620286_sub,ERR1620286,crohns_disease,IBD,diseased,He_2017,40,21.83
+ERR1620289_sub,ERR1620289,crohns_disease,IBD,diseased,He_2017,39,20
+ERR1620290_sub,ERR1620290,crohns_disease,IBD,diseased,He_2017,27,19.36
+ERR1620325_sub,ERR1620325,healthy,healthy,healthy,He_2017,24,22.04
+ERR1620330_sub,ERR1620330,healthy,healthy,healthy,He_2017,23,21.26
+ERR1620339_sub,ERR1620339,healthy,healthy,healthy,He_2017,14,18.82
