@@ -25,6 +25,7 @@ def load_micom_results(folder="2_Exchanges"):
 
     exchange_files = sorted(folder.glob("*_exchanges.csv"))
     growth_files = sorted(folder.glob("*_growth_rates.csv"))
+    annotation_files = sorted(folder.glob("*_annotations.csv"))
 
     if len(exchange_files) == 0:
         raise FileNotFoundError(
@@ -80,12 +81,35 @@ def load_micom_results(folder="2_Exchanges"):
             ignore_index=True
         )
 
+    # ------------------------
+    # Load annotations
+    # ------------------------
+
+    annotations_tables = []
+
+    for f in annotation_files:
+
+        sample = f.name.replace("_annotations.csv", "")
+
+        df = pd.read_csv(f)
+
+        df["sample_id"] = sample
+
+        annotations_tables.append(df)
+
+    annotations = pd.concat(
+        annotations_tables,
+        ignore_index=True
+    )
+
+
 
     # Create MICOM-like container
 
     res = SimpleNamespace(
         exchanges=exchanges,
         growth_rates=growth_rates,
+        annotations = annotations_tables
     )
 
     return res
