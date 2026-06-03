@@ -102,15 +102,19 @@ def load_micom_results(folder="2_Exchanges"):
         ignore_index=True
     )
 
-
+    # Merge annotations into a single DataFrame
+    concatenated_annotations = pd.concat(annotations_tables, ignore_index=True)
+    concatenated_annotations = concatenated_annotations.drop(columns=['sample_id'])
+    concatenated_annotations = concatenated_annotations.drop_duplicates(subset=['metabolite'], keep='first')
 
     # Create MICOM-like container
 
     res = SimpleNamespace(
         exchanges=exchanges,
         growth_rates=growth_rates,
-        annotations = annotations_tables
+        annotations = concatenated_annotations
     )
+
 
     return res
 
